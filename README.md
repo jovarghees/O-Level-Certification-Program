@@ -14,6 +14,7 @@ Part 1 : O Lvel Certification Program [30 Hrs]
     • K- Nearest neighbors Algorithm and Implementation
     • Train Test Splits, Cross Validation
     • Linear Regression
+    
 Part 2 : A Level Certification Program [30 Hrs]
     • Regularization and Gradient Descent
     • Logistic Regression and Classification Error Metrics
@@ -23,6 +24,7 @@ Part 2 : A Level Certification Program [30 Hrs]
     • Transfer Learning using MNIST data
     • Using Pre-Trained Models
     • Classifying CIFAR-10 with Data Augmentation
+    
 Part 3 B Level Certification Program [30 Hrs]
     • Hands on E2E workflow using an image classification problem
     • Object Detection Demo in openvino
