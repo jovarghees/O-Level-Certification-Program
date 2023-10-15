@@ -10,4 +10,4 @@ https://docs.conda.io/projects/miniconda/en/latest/
 Conda installation Link
 https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 
-
+this is changing from feature
